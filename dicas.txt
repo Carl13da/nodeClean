@@ -1,0 +1,18 @@
+- Conventional commits
+- npm i -D git-commit-msg-linter
+
+- node.green check es
+- standardjs
+
+- npm install --save-dev eslint@7 eslint-plugin-standard@4 eslint-plugin-promise@4 eslint-plugin-import@2 eslint-plugin-node@11 @typescript-eslint/eslint-plugin@3 eslint-config-standard-with-typescript
+- husky https://www.npmjs.com/package/husky
+- lint-staged
+- npm i -D jest @types/jest ts-jest
+- Retirar dependência do Express ou seja Inversão de dependência. O Express que deveria estar olhando para o nosso projeto. Vide Aula
+de Introdução
+	- Utilizar Express Route Adapter, criar interfaces para comunicar com o controller genérico
+
+-jest --ClearCache
+- npm install -g npm-check
+- npm-check -s -u
+	
